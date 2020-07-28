@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: devraiz
-email: rafael.cassau@gmail.com
+email: rafa.cassau@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   "Qualquer programador é capaz de escrever código que maquinas entendam,
   mas bons programadores escrevem código que humanos entendam!"
