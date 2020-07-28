@@ -21,13 +21,21 @@
 title: devraiz
 email: rafael.cassau@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  "Qualquer programador é capaz de escrever código que maquinas entendam,
+  mas bons programadores escrevem código que humanos entendam!"
+
+  Martin Fowler
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://devraiz.com" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: CassauRafael
 github_username:  rafaelcassau
+linkedin_username: rafael-stain-cassau-b42a4631
+linkedin_display_username: rafaelcassau
+# My custom fields
+author: Rafael Cassau
+copyright: Dev Raiz
+title-logo: /images/title-logo.png
 
 # Build settings
 # Removed minima theme as it is now a regular theme.

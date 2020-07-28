@@ -1,18 +1,26 @@
 ---
 layout: page
-title: About
+title: Sobre mim
 permalink: /about/
 ---
+Fala root! beleza?
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Bem, me chamo Rafael Cassau e trabalho como software engineer à mais de uma década.
+Por muito tempo eu tinha vontade de criar um blog e compartilhar um pouco das minhas experiências.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+O principal motivo pelo qual estou fazendo isso é poder ajudar você que está começando agora ou você
+que já é mais experiente porém sente que está andando de lado e não está evoluindo na carreira, eu
+já passei por isso também e acredito que minhas experiências incluindo os acertos mas principalmente os erros cometi durante minha trajetória podem ser boas ferramentas para te auxiliar nesse processo.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Espero poder contribuir em algo com vocês!
 
+E bora escovar bits galera!!!
 
-[jekyll-organization]: https://github.com/jekyll
+E não esqueçam, dev raiz sai correndo do hype!!!
+
+Midias sociais:<br>
+[linkedin](https://www.linkedin.com/in/rafael-stain-cassau-b42a4631/)<br>
+[github](https://github.com/rafaelcassau/)<br>
+[twitter](https://twitter.com/CassauRafael)<br>
+[medium](https://medium.com/@rafa.cassau)<br>
+[slideshare](https://pt.slideshare.net/rafaelcassau/presentations)
